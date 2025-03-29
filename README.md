@@ -1,0 +1,2 @@
+# 10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code
+Deep learning final year projects offer students the opportunity to explore the latest advancements in artificial intelligence and apply them to real-world problems. One project idea is developing a Deep Learning-Based Image Classification System, which uses convolutional neural networks (CNNs) to classify images into different categories.
